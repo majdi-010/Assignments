@@ -22,4 +22,4 @@ I would like to work in the field of Data. Something in Data Analysis in combina
 My primary goal, however, is to become really great at handling data and understanding computer science; doing analysis, building models, etc. 
 
 ### Contact 
-If you would like to reach out to me to discuss something specific, or just say hi, you can find me on my [Linkedin](https://www.linkedin.com/in/majdi-hentati/)
+If you would like to reach out to me to discuss something specific, or just say hi, you can find me on my [Linkedin](https://www.linkedin.com/in/majdi-hentati/).
